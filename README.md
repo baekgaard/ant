@@ -39,6 +39,7 @@ To use this class, do something like the following:
 
 
 For a full description of the original experiment, see:
+
     Jin Fan, Bruce D. McCandliss, Tobias Sommer, Amir Raz, and Michael I. Posner:
     "Testing the Efficiency and Independence of Attentional Networks"
     Journal of Cognitive Neuroscience 14:3, pp. 340-347 (2002)
