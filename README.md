@@ -1,8 +1,9 @@
-# ANT (Attention Network Test) implemented in PsychoPy2
+# ANT (Attention Network Test) 
+
+This module implements the ANT (Attention Network Test) in PsychoPy2
 
 ## Use
 
-This module implements the ANT (Attention Network Test) in PsychoPy2
 
 To use this class, do something like the following:
 
