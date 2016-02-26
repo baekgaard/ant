@@ -69,7 +69,7 @@ Created by Per Baekgaard / pgba@dtu.dk / baekgaard@b4net.dk, September 2015
 
 Licensed under the MIT License:
 
-    Copyright (c) 2015,2016 Per Baekgaard, Technical University of Denmark, DTU Informatics, Cognitive Systems Section
+Copyright (c) 2015,2016 Per Baekgaard, Technical University of Denmark, DTU Informatics, Cognitive Systems Section
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated
 documentation files (the "Software"), to deal in the Software without restriction, including without
