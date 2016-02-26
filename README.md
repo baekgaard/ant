@@ -4,7 +4,6 @@ This module implements the ANT (Attention Network Test) in PsychoPy2
 
 ## Use
 
-
 To use this class, do something like the following:
 
 
@@ -36,6 +35,8 @@ To use this class, do something like the following:
             allData = np.concatenate((allData, block))
 
     # do something with allData (or use the logfiles, that log ;-separated experimental data)
+
+There is a working example in the testant.py file.
 
 
 For a full description of the original experiment, see:
